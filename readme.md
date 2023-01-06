@@ -7,8 +7,12 @@
 
 ### Run `g++ tenaday.cpp` then run the exe file
 
+# Screenshots
+
+![ex1](images/ex1)
+
 ## Todo
 
 1. Add timer
-2. Add fstream functionality to include new tasks
+2. Use vectors for tasks to more easily refer to tasks
 3. Add a way to check off tasks completed
