@@ -9,7 +9,7 @@
 
 # Screenshots
 
-![ex1](images/ex1)
+![ex1](images/ex1.png)
 
 ## Todo
 
