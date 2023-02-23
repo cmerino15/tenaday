@@ -13,6 +13,6 @@
 
 ## Todo
 
-[x] Add timer
-[x] Use vectors for tasks to more easily refer to tasks
-[ ] Add a way to check off tasks completed
+- [x] Add timer
+- [x] Use vectors for tasks to more easily refer to tasks
+- [ ] Add a way to check off tasks completed
